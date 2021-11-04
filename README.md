@@ -10,7 +10,7 @@
 <a href="https://t.me/PigasusSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/PigasusUpdates"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 <a href="https://t.me/GilbertAnimeBot"> <img src="https://img.shields.io/badge/GilbertAnimebot-blue?&logo=telegram" alt="Gilbert on Telegram" /> </a><br>
-<a href="https://www.codefactor.io/repository/github/aasfcyberking/gilbertanimebot"><img src="https://www.codefactor.io/repository/github/aasfcyberking/gilbertanimebot/badge" alt="CodeFactor" /></a><br>
+<a href="https://www.codefactor.io/repository/github/aasfcyberking/gilbertanimebot"><img src="https://www.codefactor.io/repository/github/aasfcyberking/gilbertanimebot/badge?s=f28e94dd3f2ef4ef858a0ad32b7c0519bfa11e48" alt="CodeFactor" /></a>
 <a href="https://deepsource.io/gh/AASFCYBERKING/GilbertAnimeBot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.5-brightgreen?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
