@@ -220,7 +220,24 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-                GILBERT_IMG, caption=f"Whassup!!!!\nWho Wake Uped Me?")
+            GILBERT_IMG, caption= "<code>Gilbert is Here For You🖤\nI am Awake Since</code>: <code>{}</code>".format(
+                uptime
+            ),
+            parse_mode=ParseMode.HTML,
+            reply_markup=InlineKeyboardMarkup(
+                [
+                  [
+                  InlineKeyboardButton(text="Support", url=f"https://telegram.dog/{SUPPORT_CHAT}")
+                  ],
+                  [
+                  InlineKeyboardButton(text="Help", url=f"https://t.me/GilbertAnimeBot?start=help")
+                  ],
+                  [
+                  InlineKeyboardButton(text="Sᴏᴜʀᴄᴇ", url="https://github.com/AASFCYBERKING/GilbertAnimeBot")
+                  ]
+                ]
+            ),
+        )
 
 # for test purposes
 def error_callback(update: Update, context: CallbackContext):
