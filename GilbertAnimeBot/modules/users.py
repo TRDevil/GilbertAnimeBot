@@ -7,7 +7,7 @@ from telegram.ext import (CallbackContext, CommandHandler, Filters,
                           MessageHandler, run_async)
 
 import GilbertAnimeBot.modules.sql.users_sql as sql
-from GilbertAnimeBot. import DEV_USERS, LOGGER, OWNER_ID, dispatcher
+from GilbertAnimeBot import DEV_USERS, LOGGER, OWNER_ID, dispatcher
 from GilbertAnimeBot.modules.helper_funcs.chat_status import dev_plus, sudo_plus
 from GilbertAnimeBot.modules.sql.users_sql import get_all_users
 
