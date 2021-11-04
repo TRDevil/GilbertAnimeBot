@@ -71,7 +71,7 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="[☬ Help ☬]", callback_data="help_back"),
-                       InlineKeyboardButton(text="[☬ Øwñêr ☬]", url="https://t.me/AASFCYBERKING"),
+                       InlineKeyboardButton(text="[☬ Sσυɾƈҽ ☬]", url="https://github.com/AASFCYBERKING/GilbertAnimeBot"),
                        InlineKeyboardButton(text="[☬ Inline ☬]", switch_inline_query_current_chat=""),
                      ],
                     [                  
