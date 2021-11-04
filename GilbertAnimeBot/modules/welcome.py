@@ -74,7 +74,7 @@ ENUM_FUNC_MAP = {
 VERIFIED_USER_WAITLIST = {}
 
 OWNER_IMG = "https://telegra.ph/file/6462f740dc6121a21455c.jpg"
-LEAVE_IMG = "https://telegra.ph/file/759fa2a8057c14a1832fa.mp4"
+LEAVE_IMG = "https://telegra.ph/file/6768c9349a33779361bd7.mp4"
 
 # do not async
 def send(update, message, keyboard, backup_message):
